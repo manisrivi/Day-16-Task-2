@@ -1,0 +1,13 @@
+.box_sm{
+    margin: 30px;
+}
+
+
+.nav{
+    border: solid 2px black;
+    text-align: center;
+}
+
+h5, button {
+    font-family: 'Source Code Pro', monospace;
+}
